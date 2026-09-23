@@ -1,1 +1,1 @@
-module two_bit_equality(output a,b);
+module two_bit_equality(output a,b);kkkkkkkk
